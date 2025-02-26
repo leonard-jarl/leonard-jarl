@@ -4,4 +4,4 @@
 - 💞️ I’m looking for a trainee (read LIA in Sweden) position for the start of 2026 in frontend development
 - 📫 You can reach me at leonard.jarl.dev@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a burn mark in the shape of a little dount on my arm
+- ⚡ Fun fact: I have a burn mark in the shape of a little donut on my arm
