@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leonard-jarl
-- 👀 I’m love watching football, hang out with friends and of course coding!
+- 👀 I love watching football, hang out with friends and of course coding!
 - 🌱 I’m currently a frontend developer student at Folkuniversitetet Göteborg
 - 💞️ I’m looking for a trainee (read LIA in Sweden) position for the start of 2026 in frontend development
 - 📫 You can reach me at leonard.jarl.dev@gmail.com
