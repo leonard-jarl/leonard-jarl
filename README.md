@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leonard-jarl
+- 👋 Hi, My name is Leonard Jarl
 - 👀 I love watching football, hanging out with friends and of course coding!
 - 🌱 I’m currently a frontend developer student at Folkuniversitetet Göteborg
 - 💞️ I’m looking for a trainee (read LIA in Sweden) position for the start of 2026 in frontend development
